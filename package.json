@@ -1,0 +1,22 @@
+{
+  "name": "elementor-hello-theme-async",
+  "version": "1.0.0",
+  "description": "In our previous tutorial, we used the History Web API within a static site to serve smooth page transitions. In this tutorial we’re going to take things to the next level, by applying what we learned in a WordPress website. There’ll be one crucial difference; we’ll leverage SmoothState.js instead of building our own from scratch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawcard/elementor-hello-theme-async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drawcard/elementor-hello-theme-async/issues"
+  },
+  "homepage": "https://github.com/drawcard/elementor-hello-theme-async#readme",
+  "dependencies": {
+    "smoothstate": "^0.7.2"
+  }
+}
